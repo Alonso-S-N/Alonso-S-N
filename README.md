@@ -1,6 +1,8 @@
-<h2 align="left">Hi 👋! My name is Alonso and I'm a programer, from HYDRA FRC 9163</h2>
+<img align = "right" height= "60" src = "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/4/4b/H_alternate_3.png/revision/latest?cb=20160331154244" />
+<h2 align="left">Hi 👋! My name is Alonso and I'm a programer, from HYDRA FRC 9163</h2> 
 
-<img align="right" height="350" src="https://i.pinimg.com/474x/1d/2e/a5/1d2ea5759eb01470b84174a85a73d7f2.jpg"  />
+
+<img align="right" height="220" src="https://github.com/raphacnas/Argus-IA/blob/main/ArgusLogo.png?raw=true"/>
 
 ###
 
