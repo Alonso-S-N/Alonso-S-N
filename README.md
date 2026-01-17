@@ -1,6 +1,9 @@
 <img align = "right" height= "58" src = "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/4/4b/H_alternate_3.png/revision/latest?cb=20160331154244" />
-<h2 align="left">Hi 👋! My name is Alonso and I'm a programer, from HYDRA FRC 9163</h2> 
+<h2 align="left">Hi 👋! My name is Alonso and I'm a programer, from HYDRA FRC #9163</h2> 
 
+💻Programo Locomoção, Sistemas e Visão Computacional em Robôs de FRC❗ 🐉🐙 <br>
+💻Programo IAs de visão computacional para identificação de objetos 🐉🐙 <br>
+💻Atualmente trabalhando em automação na swerve com utilização de odometria e visão computacional,além do lançamento de objetos 🐉🐙 <br>
 
 <img align="right" height="220" src="https://github.com/raphacnas/Argus-IA/blob/main/ArgusLogo.png?raw=true"/>
 
