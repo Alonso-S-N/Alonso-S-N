@@ -1,22 +1,20 @@
 <h2 align="left">Hi 👋! My name is Alonso and I'm a programer, from HYDRA FRC 9163</h2>
 
 ###
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maurodesouza&theme=dracula&show_icons=true&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&theme=dracula&layout=compact&langs_count=5)
-
+![GitHub Stats](https://github-readme-stat-git-mike.vercel.app/api?username=maurodesouza&theme=dracula&show_icons=true&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stat-git-mike.vercel.app/api/top-langs?username=maurodesouza&theme=dracula&layout=compact&langs_count=5)
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/474x/1d/2e/a5/1d2ea5759eb01470b84174a85a73d7f2.jpg"  />
+<img align="right" height="350" src="https://i.pinimg.com/474x/1d/2e/a5/1d2ea5759eb01470b84174a85a73d7f2.jpg"  />
 
 ###
 
 <div align="left">
-  <img src="https://www.citypng.com/public/uploads/preview/java-white-logo-image-png-701751694771838qyus1n9gdu.png" height="30" alt="java logo"  />
+  <img src="https://www.citypng.com/public/uploads/preview/java-white-logo-image-png-701751694771838qyus1n9gdu.png" height="50" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
 </div>
 
 ###
