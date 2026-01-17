@@ -23,7 +23,7 @@
 
 ###
 
-[![Gmail](https://img.shields.io/badge/Gmail-Entre%20em%20contato-D14836?logo=gmail&logoColor=white&style=for-the-badge)](ghoul6413@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Entre%20em%20contato-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:ghoul6413@gmail.com?subject=Contato%20pelo%20GitHub)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Me%20adicione-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/seu-perfil-aqui)
 
  ###
