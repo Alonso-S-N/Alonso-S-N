@@ -1,10 +1,5 @@
 <h2 align="left">Hi 👋! My name is Alonso and I'm a programer, from HYDRA FRC 9163</h2>
 
-###
-![GitHub Stats](https://github-readme-stat-git-mike.vercel.app/api?username=maurodesouza&theme=dracula&show_icons=true&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stat-git-mike.vercel.app/api/top-langs?username=maurodesouza&theme=dracula&layout=compact&langs_count=5)
-###
-
 <img align="right" height="350" src="https://i.pinimg.com/474x/1d/2e/a5/1d2ea5759eb01470b84174a85a73d7f2.jpg"  />
 
 ###
@@ -15,14 +10,35 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
+  <img widht "12" />
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/git-logo-svg-vector.svg" height="50" alt"git logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height = "50" alt "github logo" />
+  <img width="12" />
 </div>
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+[![Gmail](https://img.shields.io/badge/Gmail-Envie%20um%20email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](ghoul6413@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Me%20adicione-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/seu-perfil-aqui)
+
+ ###
+# 📊 Status do GitHub:
+
+![](https://github-contributor-stats.vercel.app/api?username=raphacnas&limit=5&theme=merko&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=raphacnas&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=raphacnas&theme=merko&hide_border=false)
+
+<br>
+
+# 🐍🍎 Contribuições neste ano
+
+ <picture align="center">
+   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raphacnas/raphacnas/output/github-contribution-grid-snake-dark.svg">
+   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raphacnas/raphacnas/output/github-contribution-grid-snake-dark.svg">
+   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+ </picture>
+###
 
 
 
