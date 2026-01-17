@@ -17,11 +17,13 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height = "50" alt "github logo" />
   <img width="12" />
+  <img src="https://www.cursoemvideo.com/wp-content/uploads/bb-plugin/cache/poo-java-circle-9342dd242d4e1f7c60844dd4680ed065-5d48cb37edbef.jpg" height ="50" alt "java poo logo"/>
+  <img width="12" />
 </div>
 
 ###
 
-[![Gmail](https://img.shields.io/badge/Gmail-Envie%20um%20email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](ghoul6413@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Entre%20em%20contato-D14836?logo=gmail&logoColor=white&style=for-the-badge)](ghoul6413@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Me%20adicione-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/seu-perfil-aqui)
 
  ###
