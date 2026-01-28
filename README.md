@@ -1,4 +1,4 @@
-<img align = "right" height= "60" src = "https://github.com/Mechanical-Advantage/.github/raw/main/profile/robots-dark.png" />
+<img align = "right" height= "58" width = "300" src = "https://github.com/Mechanical-Advantage/.github/raw/main/profile/robots-dark.png" />
 <h2 align="left">Hi 👋! My name is Alonso and I'm a programer, from HYDRA FRC #9163</h2> 
 
 💻Programo Locomoção, Sistemas e Visão Computacional em Robôs de FRC❗ 🐉🐙 <br>
