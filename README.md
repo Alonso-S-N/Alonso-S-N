@@ -35,7 +35,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Alonso-S-N&limit=5&theme=merko&combine_all_yearly_contributions=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alonso-S-N&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ![](https://nirzak-streak-stats.vercel.app/?user=Alonso-S-N&theme=merko&hide_border=false)
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Alonso-S-N&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
 # 🐍🍎 Contribuições neste ano
 
