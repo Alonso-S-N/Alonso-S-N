@@ -16,12 +16,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
   <img widht "12" />
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/git-logo-svg-vector.svg" height="50" alt"git logo" />
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/git-logo-svg-vector.svg" height="50" alt= "git logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height = "50" alt "github logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height = "50" alt="github logo" />
   <img width="12" />
-  <img src="https://www.cursoemvideo.com/wp-content/uploads/bb-plugin/cache/poo-java-circle-9342dd242d4e1f7c60844dd4680ed065-5d48cb37edbef.jpg" height ="50" alt "java poo logo"/>
+  <img src="https://www.cursoemvideo.com/wp-content/uploads/bb-plugin/cache/poo-java-circle-9342dd242d4e1f7c60844dd4680ed065-5d48cb37edbef.jpg" height ="50" alt= "java poo logo"/>
   <img width="12" />
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-javascript-logo-icon-svg-download-png-1720087.png "height ="50" alt= "java poo logo"/>
 </div>
 
 ###
