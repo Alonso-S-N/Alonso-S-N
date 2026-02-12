@@ -33,7 +33,6 @@
  ###
 # 📊 Status do GitHub:
 
-![](https://github-contributor-stats.vercel.app/api?username=Alonso-S-N&limit=5&theme=merko&combine_all_yearly_contributions=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alonso-S-N&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ![](https://nirzak-streak-stats.vercel.app/?user=Alonso-S-N&theme=merko&hide_border=false)
 
