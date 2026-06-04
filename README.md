@@ -33,8 +33,12 @@
  ###
 # 📊 Status do GitHub:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alonso-S-N&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-![](https://nirzak-streak-stats.vercel.app/?user=Alonso-S-N&theme=merko&hide_border=false)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Alonso-S-N/Alonso-S-N/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/Alonso-S-N/Alonso-S-N/languages-output/languages.svg" height="150" alt="languages graph"  />
+</div>
+
+###
 
 # 🐍🍎 Contribuições neste ano
 
