@@ -5,7 +5,7 @@
 💻Programo IAs de visão computacional para identificação de objetos 🐉🐙 <br>
 💻Atualmente trabalhando em automação na swerve com utilização de odometria e visão computacional,além do lançamento de objetos 🐉🐙 <br>
 
-<img align="right" height="220" src="https://github.com/raphacnas/Argus-IA/blob/main/ArgusLogo.png?raw=true"/>
+<img align="right" height="210" src="https://github.com/raphacnas/Argus-IA/blob/main/ArgusLogo.png?raw=true"/>
 
 ###
 
