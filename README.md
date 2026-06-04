@@ -5,40 +5,18 @@
 💻Programo IAs de visão computacional para identificação de objetos 🐉🐙 <br>
 💻Atualmente trabalhando em automação na swerve com utilização de odometria e visão computacional,além do lançamento de objetos 🐉🐙 <br>
 
-<img align="right" height="210" src="https://github.com/raphacnas/Argus-IA/blob/main/ArgusLogo.png?raw=true"/>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-###
+# 📊 GitHub Stats:  
+![](https://github-readme-stats.shion.dev/api?username=Alonso-S-N&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Alonso-S-N&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Alonso-S-N&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img align="right" height="400" src="https://github.com/raphacnas/Argus-IA/blob/main/ArgusLogo.png?raw=true"/>
 
-<div align="left">
-  <img src="https://www.citypng.com/public/uploads/preview/java-white-logo-image-png-701751694771838qyus1n9gdu.png" height="50" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
-  <img widht "12" />
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/git-logo-svg-vector.svg" height="50" alt= "git logo" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height = "50" alt="github logo" />
-  <img width="12" />
-  <img src="https://www.cursoemvideo.com/wp-content/uploads/bb-plugin/cache/poo-java-circle-9342dd242d4e1f7c60844dd4680ed065-5d48cb37edbef.jpg" height ="50" alt= "java poo logo"/>
-  <img width="12" />
-    <img src="https://cdn.iconscout.com/icon/free/png-256/free-javascript-logo-icon-svg-download-png-1720087.png "height ="50" alt= "java poo logo"/>
-</div>
+[![](https://komarev.com/ghpvc/?username=Alonso-S-N&icon=9&color=0)](https://visitcount.itsvg.in)
 
-###
 
-[![Gmail](https://img.shields.io/badge/Gmail-Entre%20em%20contato-D14836?logo=gmail&logoColor=white&style=for-the-badge)](https://mail.google.com/mail/?view=cm&fs=1&to=ghoul6413@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ainda%20Em%20Construção-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/seu-perfil-aqui)
-
- ###
-# 📊 Status do GitHub:
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Alonso-S-N/Alonso-S-N/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Alonso-S-N/Alonso-S-N/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
-
-###
 
 # 🐍🍎 Contribuições neste ano
 
