@@ -17,7 +17,6 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Alonso-S-N&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <img align="right" height="400" src="https://github.com/raphacnas/Argus-IA/blob/main/ArgusLogo.png?raw=true"/>
 
-[![](https://komarev.com/ghpvc/?username=Alonso-S-N&icon=9&color=0)](https://visitcount.itsvg.in)
 
 
 
